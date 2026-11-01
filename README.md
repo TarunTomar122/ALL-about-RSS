@@ -1782,6 +1782,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [Awesome-techCN-feeds](https://github.com/RSS-Renaissance/awesome-techCN-feeds)
 - [~~Refined Blog~~](https://refined.blog/)
 - [Digest AI](https://digestai.news/) : AI news from 71 curated sources merged into one story per event with every source linked; publishes its own [RSS feed](https://digestai.news/rss.xml), an [AI at Work feed](https://digestai.news/work/rss.xml) and a [podcast feed](https://digestai.news/podcast.xml) ![Online][Online icon]![AI][AI icon]
+- [AI观潮 (AI Guanchao)](https://aiguanchao.com/en) : curated daily AI news picked from thousands of stories, with AI-written summaries in Chinese; feeds for [picks](https://aiguanchao.com/feed/featured.xml), the [daily brief](https://aiguanchao.com/feed/daily.xml) and the [podcast](https://static.aiguanchao.com/podcast/ai-daily/feed.xml) ![Online][Online icon]![Freeware][freeware icon]![AI][AI icon][![MCP][MCP icon]](https://aiguanchao.com/en/agent)
 
 #### Crypto or Blockchain relevant
 
